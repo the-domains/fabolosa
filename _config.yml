@@ -1,0 +1,14 @@
+layout_spectrum: 0.010624867165461183
+typography_spectrum: 0.7233693993184716
+color:
+  brandStrength: 0.15044583496637642
+  lightness: 0.567323966184631
+  saturation: 0.8530345654580742
+  rhythmicContrast: 0.23908749409019947
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: fabolosa

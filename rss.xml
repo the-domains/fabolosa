@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[fabolosa]]></title>
         <description><![CDATA[fabolosa]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/fabolosa/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Fri, 08 Jul 2016 04:25:56 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Fri, 08 Jul 2016 04:26:08 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/fabolosa/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c5ef2785-56f5-442f-8fd9-96e285362fa8.jpg">]]></description>
+            <link>https://thegrid.ai/fabolosa/e75f617e-3ba8-4ce4-bc97-2b85833525d9/index.html</link>
+            <guid isPermaLink="false">e75f617e-3ba8-4ce4-bc97-2b85833525d9</guid>
+            <pubDate>Fri, 08 Jul 2016 04:25:58 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/12882c41-4ffa-4abd-8862-04dd032abbd7.jpg">]]></description>
-            <link>undefined80700a6c-1579-4294-bcb4-1475b4b6a8b0/index.html</link>
+            <link>https://thegrid.ai/fabolosa/80700a6c-1579-4294-bcb4-1475b4b6a8b0/index.html</link>
             <guid isPermaLink="false">80700a6c-1579-4294-bcb4-1475b4b6a8b0</guid>
             <pubDate>Fri, 08 Jul 2016 04:25:54 GMT</pubDate>
         </item>

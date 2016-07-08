@@ -1,3 +1,4 @@
+layout_spectrum: 0.010624867165461183
 typography_spectrum: 0.7233693993184716
 color:
   brandStrength: 0.15044583496637642
@@ -10,8 +11,4 @@ color:
     - '#FFFFFF'
     - '#FFC0A9'
     - '#FF8598'
-layout_spectrum: 0.010624867165461183
-name: FABOLOSA
-favicon: >-
-  https://the-grid-user-content.s3-us-west-2.amazonaws.com/a47ce77e-4be4-4750-80cd-a94c431bb6ee.png
-title: SIMPLESMENTE BOM GOSTO
+name: fabolosa
